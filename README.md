@@ -1,13 +1,15 @@
-# Midori128-64
+# CS553: Cryptography
 
-## Setup:
+## Midori128-64 Cipher
+
+### Setup:
 1. Clone the repo, or download all the files.
 2. Open terminal and run **python3 main.py**
 3. Enter message to be encrypted.
 
 The Key is generated at random. The main uses 128-bit version for the demo.
 
-# UDP Client-Server Midori-64 encryption based messaging
+### UDP Client-Server Midori-64 encryption based messaging
 1. Open two terminal: T_client and T_server
 2. In T_server execute /App/server.py.
 3. In T_client execute /App/client.py.
